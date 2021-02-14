@@ -3,3 +3,4 @@ WPU RESOLUSI
 - membuat forum diskusi
 - membuat vlog
 - bekerja di start up
+- menambah materi angular
